@@ -80,7 +80,7 @@ public class Post {
         return reposts;
     }
 
-    public void setReposts(Reposts reposts)g {
+    public void setReposts(Reposts reposts){
         this.reposts = reposts;
     }
 }
